@@ -1,0 +1,37 @@
+¿Que es github?
+Github es un portal creado para alojar el código de las aplicaciones de cualquier desarrollador,
+y que fue comprada por Microsoft en junio del 2018.
+La plataforma está creada para que los desarrolladores suban el código de sus aplicaciones y herramientas,
+y que como usuario no sólo puedas descargarte la aplicación, sino también entrar a su perfil para leer sobre ella o colaborar con su desarrollo.
+Así pues, Github es un portal para gestionar las aplicaciones que utilizan el sistema Git.
+Además de permitirte mirar el código y descargarte las diferentes versiones de una aplicación,
+la plataforma también hace las veces de red social conectando desarrolladores con usuarios para que estos puedan colaborar mejorando la aplicación.
+Github permite que los desarrolladores alojen proyectos creando repositorios de forma gratuita. Pero hay que tener una cosa en mente,
+y es que para poder subir gratis los proyectos deberán ser de código abierto.
+Y no quieres que tu aplicación sea de código abierto, la plataforma también tiene una versión de pago para alojar proyectos de forma privada.
+Github también ofrece una serie de herramientas propias con las que complementar las ventajas que ya tiene el sistema Git de por sí solo.
+Por ejemplo, puedes crear una Wiki para cada proyecto, de forma que puedas ofrecer toda la información sobre él y anotar todos los cambios de las diferentes versiones.
+
+¿Que docker hub?
+Docker es una plataforma de software que le permite crear, probar e implementar aplicaciones rápidamente.
+Docker empaqueta software en unidades estandarizadas llamadas contenedores que incluyen todo lo necesario para que el software se ejecute,
+incluidas bibliotecas, herramientas de sistema, código y tiempo de ejecución.
+Con Docker, puede implementar y ajustar la escala de aplicaciones rápidamente en cualquier entorno con la certeza de saber que su código se ejecutará.
+Docker le proporciona una manera estándar de ejecutar su código. Docker es un sistema operativo para contenedores.
+De manera similar a cómo una máquina virtual virtualiza (elimina la necesidad de administrar directamente) el hardware del servidor,
+los contenedores virtualizan el sistema operativo de un servidor.
+Docker se instala en cada servidor y proporciona comandos sencillos que puede utilizar para crear, iniciar o detener contenedores.
+Docker le permite entregar código con mayor rapidez, estandarizar las operaciones de las aplicaciones,
+transferir el código con facilidad y ahorrar dinero al mejorar el uso de recursos. Con Docker,
+obtiene un solo objeto que se puede ejecutar de manera fiable en cualquier lugar. La sintaxis sencilla y simple de Docker le aporta un control absoluto.
+La amplia adopción significa que existe un gran ecosistema de herramientas y aplicaciones listas para su uso que puede utilizar con Docker.
+
+¿Que es Google console cloud?
+a consola de Google Cloud proporciona una interfaz gráfica de usuario basada en la Web que puede usar para administrar sus proyectos y recursos de Google Cloud.
+Cuando uses la consola de Google Cloud, crea un proyecto nuevo o elige uno existente, y usa los recursos que crees en el contexto de ese proyecto.
+Herramientas y servicios para transferir tus datos a Google Cloud. Almacenamiento de objetos seguro, duradero y escalable.
+Almacenamiento de objetos para guardar y servir contenido generado por usuarios.
+Almacenamiento, colaboración en el contenido y uso compartido de archivos basados en la nube.
+La nube posibilita guardar y acceder a la información disponiendo únicamente de una conexión a Internet por lo cual,
+sustituye el popular disco duro de los ordenadores tradicionales.
+La nube funciona de una forma muy sencilla: existen empresas que habilitan servidores que por lo general se encuentran en Internet
